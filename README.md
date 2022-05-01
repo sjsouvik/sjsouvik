@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-Currently, I'm working as a frontend developer and have been working with ReactJS. I would love to explore backend stuff(Java, Spring boot, etc.) as well after having decent expertise in frontend technologies.
+Currently, I'm working as a frontend developer and have been working with ReactJS. I would love to explore backend stuff(Java, Spring boot, etc.) as well after having decent expertise in frontend technologies. Also, like to share my learnings by writing articles sometimes, you can check them out in blogs section of my portfolio.
 
 - 🌍  I'm based in India
 - 🖥️  See my portfolio at [@sjsouvik](http://sjsouvik.netlify.app)
