@@ -8,15 +8,15 @@ Currently, I'm working as a frontend developer and have been working with ReactJ
 
 - 🌱 I’m currently learning **NextJS, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [@souvikjana/projects](https://souvikjana.vercel.app)
+- 👨‍💻 All of my projects are available at [@souvikjana/projects](https://souvikjana.vercel.app/projects)
 
 - 📝 I regularly write articles on [Medium](https://sjsouvik.medium.com/)
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me [@souvikjana](mailto:souvikjana2013@gmail.com)
+- 📫 Reach out to me [@souvikjana](mailto:souvikjana2013@gmail.com)
 
-- 📄 Know about my experiences [@souvikjana/resume](https://souvikjana.vercel.app/resume)
+- 📄 Know about my experiences [@souvikjana/resume](https://instahyre-2.s3-ap-south-1.amazonaws.com/media/resume/1571848/c333e84dfc/Souvik_Jana.pdf)
 
 <a href="https://www.twitter.com/sjsouvik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sjsouvik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
