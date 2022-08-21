@@ -5,7 +5,18 @@
 Currently, I'm working as a frontend developer and have been working with ReactJS. I would love to explore backend stuff(Java, Spring boot, etc.) as well after having decent expertise in frontend technologies. Also, like to share my learnings by writing articles sometimes, you can check them out in blogs section of my portfolio.
 
 - 🌍  I'm based in India
-- 🖥️  See my portfolio at [@sjsouvik](http://sjsouvik.netlify.app)
+
+- 🌱 I’m currently learning **NextJS, Tailwind CSS**
+
+- 👨‍💻 All of my projects are available at [@souvikjana/projects](https://souvikjana.vercel.app)
+
+- 📝 I regularly write articles on [Medium](https://sjsouvik.medium.com/)
+
+- 💬 Ask me about **Frontend Development**
+
+- 📫 How to reach me [@souvikjana](mailto:souvikjana2013@gmail.com)
+
+- 📄 Know about my experiences [@souvikjana/resume](https://souvikjana.vercel.app/resume)
 
 <a href="https://www.twitter.com/sjsouvik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sjsouvik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
