@@ -6,7 +6,7 @@ Currently, I'm working as a frontend developer and have been working with ReactJ
 
 - 🌍  I'm based in India
 
-- 🌱 I’m currently learning **NextJS, Tailwind CSS**
+- 🌱 I’m currently learning **TypeScript, NextJS, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [@souvikjana/projects](https://souvikjana.vercel.app/projects)
 
