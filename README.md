@@ -16,7 +16,7 @@ Currently, I'm working as a frontend developer and have been working with ReactJ
 
 - 📫 Reach out to me [@souvikjana](mailto:souvikjana2013@gmail.com)
 
-- 📄 Know about my experiences [@souvikjana/resume](https://instahyre-2.s3-ap-south-1.amazonaws.com/media/resume/1571848/c333e84dfc/Souvik_Jana.pdf)
+- 📄 Know about my experiences [@souvikjana/resume](https://instahyre-2.s3-ap-south-1.amazonaws.com/media/resume/1571848/03545cd8d7/Souvik_Jana.pdf)
 
 <a href="https://www.twitter.com/sjsouvik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sjsouvik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -47,4 +47,3 @@ src="https://img.shields.io/github/followers/sjsouvik?logo=github&style=for-the-
 <a href="https://auth.geeksforgeeks.org/user/sjsouvik/profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sjsouvik/profile" height="32" width="50" /></a>
 <a href="https://www.leetcode.com/sjsouvik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjsouvik" height="32" width="40" /></a>
 </p>
-
